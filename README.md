@@ -3,8 +3,7 @@
 Big bot bigs up the [W3BBIE Server](https://discord.gg/ZYKGW892)
 
 ## 🧩 Attributions
-* [Bot Concept](https://discordapp.com/users/bigtrav.eth
-#4250)
+* [Bot Concept](https://discordapp.com/users/bigtrav.eth#4250)
 * [Bot Collaborator, Refactor, Additional Design](https://discordapp.com/users/jackjackjack#7167)
 * [Bot Keeper](https://discordapp.com/users/Kyn#3709)
 
