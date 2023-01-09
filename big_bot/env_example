@@ -1,0 +1,8 @@
+# Example of an Environement Variable File
+# For this file to be active:
+# 1. replace the empty strings with your TOKEN, etc.
+# 2. rename this file as, ".env"
+
+BOT_TOKEN=''
+SERVER_ID=''
+TEST_CHANNEL=''
